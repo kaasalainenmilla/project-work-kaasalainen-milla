@@ -1,0 +1,7 @@
+4, d, d
+2, Miro, Moi
+6, 54, 3
+5, 234, 2
+6, df, df
+6, fd, dfs
+1, fd, fd
