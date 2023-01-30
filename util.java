@@ -4,6 +4,7 @@ class Contact {
     /* Class containing all contact information. */
     /* Initializing file reader */
     BufferedWriter output;
+    /*Initializing attributes with getters and setters */
     private String id;
     private String fName;
     private String lName;
