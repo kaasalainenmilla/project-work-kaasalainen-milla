@@ -2,6 +2,9 @@ import java.io.*;
 import java.util.Scanner;
 
 public class ContactsApp {
+    /**
+     * @param args
+     */
     public static void main(String [] args) {
         Console c = System.console(); 
         /*Main application */
