@@ -49,13 +49,16 @@ class Contact {
     }
     int lastId = 1;
     /* Creating new contact */
-    public Contact(int id, String fName, String lName) {
+    public Contact(int id, String fName, String lName, String phone, String address, String email) {
         setId(Integer.toString(id));
         setFname(fName);
         setLname(lName);
+        setPhone(phone);
+        setAddress(address);
+        setEmail(email);
         try {
             output = new BufferedWriter(new FileWriter("contacts.txt", true));
-            output.append(Integer.toString(id) + ", " + fName + ", " + lName);
+            output.append(Integer.toString(id) + ", " + fName + ", " + lName + ", " + phone + ", " + address + ", " + email);
             output.newLine();
             output.close();   
         }

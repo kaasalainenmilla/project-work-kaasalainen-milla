@@ -56,7 +56,13 @@ public class Main {
         String fName = c.readLine();
         System.out.println("Please input contact last name");
         String lName = c.readLine();
-        Contact input = new Contact(id, fName, lName);
+        System.out.println("Please input contact phone number");
+        String phone = c.readLine();
+        System.out.println("Please input contact address");
+        String address = c.readLine();
+        System.out.println("Please input contact email address");
+        String email = c.readLine();
+        Contact input = new Contact(id, fName, lName, phone, address, email);
         System.out.println("New contact " + fName + " succesfully created");  
     }
     public static void remove(String number) {
