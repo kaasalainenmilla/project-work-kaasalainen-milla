@@ -8,7 +8,7 @@ public class ContactsApp {
     public static void main(String [] args) {
         Console c = System.console(); 
         /*Main application */
-        System.out.println("Input 1, if you want to add a new contact");
+        System.out.println("Input 1 to add a new contact");
         System.out.println("Input 2 to view contacts");
         System.out.println("Input 3 to remove contact");
         System.out.println("Input 4 to update contact");

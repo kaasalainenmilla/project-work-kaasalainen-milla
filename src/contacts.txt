@@ -1,9 +1,8 @@
+1, Milla, Kaasalainen, 0451190677, Kaartotie 19, mkaasa96@gmail.com
+3, Andy, Kaasalainen, 60065, Kaartotie 19, andykissi@gmail.com
 deleted
-2, Miro, Moi
-5, 234, 2
-1, fd, fd
-8, Andy, Kaasa, 666, Kaartotie , andynen@andy.co
+2, Marjorie, Simpson, 050112, 742 Evergreen Terrace, marjoriesimpsons@yahoo.com
 deleted
-7, marge, simpson, , , 
-8, marge, simpson, 34, , 
-9, s, sda, sda, das, das
+deleted
+6, Koulumiäs, Opiskelija, 911, Tamkkimiehiä, ykkoneolishyvve@kyl.fi
+8, Marnnerheim, Mannerheim, 1917, Kartanomiehie, hyvaon@suomi24.fi
